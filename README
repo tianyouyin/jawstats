@@ -1,3 +1,5 @@
+base on JAWStats  Version 0.7 beta, make improvement as follows:
+
 1. add cites(cities, regions), host (host,ASN, ISP, Org) stats
 2. country, add "Asia/Pacific Region",  "Anonymous Proxy", "Satellite Provider"
 3. Browser Families, add Chrome, Android, BlackBerry, IBrowse, Mozilla  and other browsers
