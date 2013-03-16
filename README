@@ -1,0 +1,5 @@
+1. add cites(cities, regions), host (host,ASN, ISP, Org) stats
+2. country, add "Asia/Pacific Region",  "Anonymous Proxy", "Satellite Provider"
+3. Browser Families, add Chrome, Android, BlackBerry, IBrowse, Mozilla  and other browsers
+4. Operating System Families, add BlackBerry, Linux, J2ME, Symbian
+5. HTTP Status Codes, add the description for all http status codes
